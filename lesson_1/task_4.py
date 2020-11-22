@@ -11,3 +11,5 @@ if in_val.isdigit():
     print(val)
 else:
     print("некорректный ввод. конец программы")
+
+
