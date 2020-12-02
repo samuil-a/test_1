@@ -1,7 +1,5 @@
 def to_str(in_val):
     return str(in_val).rjust(2, "0")
-
-
 val = input('введите время в секундах >')
 if val.isdigit():
     val = int(val)
