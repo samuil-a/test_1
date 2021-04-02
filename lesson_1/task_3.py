@@ -7,4 +7,6 @@ while 1:
         break
     out_str = f'считаем конечное число: {val}+{val*2}+{val*3}={int(val)+int(val*2)+int(val*3)}'
     print(out_str)
+
+
 print("конец программы")
